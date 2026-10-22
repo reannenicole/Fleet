@@ -73,7 +73,7 @@
 
   $("q").addEventListener("input", function (e) { state.q = e.target.value; renderList(); });
 
-  fetch("data/news.json", { cache: "no-store" })
+  fetch("../data/news.json", { cache: "no-store" })
     .then(function (r) { return r.json(); })
     .then(function (data) {
       state.items = data.items || [];
