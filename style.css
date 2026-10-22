@@ -48,22 +48,12 @@ h1, h2, h3 { font-family: Fraunces, Georgia, serif; font-weight: 600; line-heigh
 .nav a:hover { color: var(--ink); background: var(--surface); }
 .nav a[aria-current="page"] { color: var(--accent-ink); background: var(--accent); }
 
-/* Masthead and tile frieze */
-.hero { padding: 52px 0 0; border-bottom: 1px solid var(--line); text-align: center; }
+/* Masthead */
+.hero { padding: 52px 0 40px; border-bottom: 1px solid var(--line); text-align: center; }
 .dateline { display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px; font-size: 13px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
 .dateline .sep { width: 6px; height: 6px; border-radius: 50%; background: var(--rust); }
 .hero h1 { margin: 14px 0 0; font-size: clamp(38px, 7vw, 70px); font-weight: 700; line-height: 1.02; letter-spacing: -0.01em; }
 .hero .lead { max-width: 680px; margin: 16px auto 0; color: var(--muted); font-size: 17px; }
-.frieze { display: grid; grid-template-columns: repeat(auto-fill, minmax(44px, 1fr)); grid-template-rows: auto; grid-auto-rows: 0; overflow: hidden; margin-top: 36px; border-radius: var(--radius) var(--radius) 0 0; }
-.frieze span { aspect-ratio: 1; }
-.t1 { background: radial-gradient(circle closest-side, var(--mustard) 70%, transparent 71%), var(--teal); }
-.t2 { background: radial-gradient(circle farthest-side at 0 100%, var(--rust) 99%, transparent 99.6%), var(--mustard); }
-.t3 { background: radial-gradient(circle farthest-side at 50% 100%, var(--olive) 50%, transparent 50.6%), var(--surface-2); }
-.t4 { background: radial-gradient(circle farthest-side at 100% 0, var(--cream) 62%, transparent 62.6%), var(--rust); }
-.t5 { background: radial-gradient(circle farthest-side at 0 50%, var(--bg) 50%, transparent 50.6%), var(--olive); }
-.t6 { background: radial-gradient(circle farthest-side at 0 0, var(--mustard) 99%, transparent 99.6%), var(--slate); }
-.t7 { background: radial-gradient(circle closest-side, var(--cream) 32%, var(--teal) 33% 82%, transparent 83%), var(--surface-2); }
-.t8 { background: radial-gradient(circle farthest-side at 50% 0, var(--slate) 50%, transparent 50.6%), var(--mustard); }
 
 /* Sections */
 .page-body { padding-bottom: 48px; }
@@ -222,8 +212,7 @@ td a { color: var(--accent); }
 @media (max-width: 640px) {
   .site-header { position: static; }
   .nav a { padding: 7px 11px; font-size: 14px; }
-  .hero { padding-top: 40px; }
-  .frieze { grid-template-columns: repeat(auto-fill, minmax(36px, 1fr)); margin-top: 28px; }
+  .hero { padding: 36px 0 28px; }
   table { min-width: 0; font-size: 14px; }
   th, td { padding: 10px 12px; }
   .numbers { grid-template-columns: 1fr 1fr; }
