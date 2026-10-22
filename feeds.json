@@ -1,26 +1,108 @@
 {
-  "max_age_days": 120,
-  "max_items": 120,
+  "max_age_days": 365,
+  "max_items": 300,
+  "word_lists": {
+    "law": ["vehicle*", "road traffic", "tachograph*", "drivers' hours", "driving licen*", "goods vehicle*",
+            "highway code", "clean air zone*", "road user charg*", "transport act", "certificate of professional competence",
+            "construction and use", "type approval", "MOT"],
+    "fleet": ["vehicle*", "van", "vans", "lorry", "lorries", "HGV*", "goods", "tachograph*", "drivers' hours", "MOT",
+              "operator*", "o-licen*", "fleet*", "roadworthiness", "speed limiter*", "clean air zone*",
+              "road user charg*", "highway code", "driving licen*", "driver CPC", "certificate of professional competence",
+              "construction and use", "type approval", "towing", "trailer*", "earned recognition", "defect*",
+              "inspection*", "recall*", "walkaround", "brake*", "tyre*", "haulage", "haulier*"]
+  },
+  "exclude": ["trunk road", "motorway", "(temporary restriction", "(temporary prohibition", "(temporary speed",
+              "(temporary traffic", "prohibition of traffic", "restriction of traffic", "prohibition of driving",
+              "air navigation", "rail", "railway*", "aviation", "airport*", "maritime", "shipping",
+              "theory test*", "driving test*", "motorcycl*", "driving instructor*"],
   "feeds": [
     {
-      "name": "DVSA",
-      "tag": "Official",
-      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=driver-and-vehicle-standards-agency"
+      "name": "New UK laws",
+      "section": "updates",
+      "type": "New law",
+      "url": "https://www.legislation.gov.uk/new/uksi/data.feed",
+      "include": "law"
+    },
+    {
+      "name": "New Acts of Parliament",
+      "section": "updates",
+      "type": "New law",
+      "url": "https://www.legislation.gov.uk/new/ukpga/data.feed",
+      "include": "law"
+    },
+    {
+      "name": "Draft laws before Parliament",
+      "section": "updates",
+      "type": "Draft law",
+      "url": "https://www.legislation.gov.uk/new/ukdsi/data.feed",
+      "include": "law"
+    },
+    {
+      "name": "DVSA guidance",
+      "section": "updates",
+      "type": "Guidance update",
+      "url": "https://www.gov.uk/search/guidance-and-regulation.atom?organisations%5B%5D=driver-and-vehicle-standards-agency&order=updated-newest",
+      "include": "fleet"
+    },
+    {
+      "name": "Traffic Commissioners guidance",
+      "section": "updates",
+      "type": "Guidance update",
+      "url": "https://www.gov.uk/search/guidance-and-regulation.atom?organisations%5B%5D=traffic-commissioners&order=updated-newest"
+    },
+    {
+      "name": "DfT guidance",
+      "section": "updates",
+      "type": "Guidance update",
+      "url": "https://www.gov.uk/search/guidance-and-regulation.atom?organisations%5B%5D=department-for-transport&order=updated-newest",
+      "include": "fleet"
+    },
+    {
+      "name": "DVLA guidance",
+      "section": "updates",
+      "type": "Guidance update",
+      "url": "https://www.gov.uk/search/guidance-and-regulation.atom?organisations%5B%5D=driver-and-vehicle-licensing-agency&order=updated-newest",
+      "include": ["vehicle tax", "fleet*", "lorry", "lorries", "van", "vans", "goods vehicle*", "commercial vehicle*",
+                  "tachograph*", "licence categor*", "V5C"]
+    },
+    {
+      "name": "DfT consultations",
+      "section": "updates",
+      "type": "Consultation",
+      "url": "https://www.gov.uk/search/policy-papers-and-consultations.atom?organisations%5B%5D=department-for-transport&order=updated-newest",
+      "include": "fleet"
+    },
+    {
+      "name": "DVSA consultations",
+      "section": "updates",
+      "type": "Consultation",
+      "url": "https://www.gov.uk/search/policy-papers-and-consultations.atom?organisations%5B%5D=driver-and-vehicle-standards-agency&order=updated-newest"
+    },
+    {
+      "name": "DVSA news",
+      "section": "news",
+      "type": "News",
+      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=driver-and-vehicle-standards-agency&order=updated-newest",
+      "include": "fleet"
     },
     {
       "name": "DVSA Moving On blog",
-      "tag": "Official",
+      "section": "news",
+      "type": "News",
       "url": "https://movingon.blog.gov.uk/feed/"
     },
     {
-      "name": "Traffic Commissioners",
-      "tag": "Official",
-      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=traffic-commissioners"
+      "name": "Traffic Commissioners news",
+      "section": "news",
+      "type": "News",
+      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=traffic-commissioners&order=updated-newest"
     },
     {
-      "name": "Department for Transport",
-      "tag": "Official",
-      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-transport&keywords=vehicle"
+      "name": "DfT news",
+      "section": "news",
+      "type": "News",
+      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-transport&order=updated-newest",
+      "include": "fleet"
     }
   ]
 }
