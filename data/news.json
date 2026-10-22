@@ -1,0 +1,195 @@
+{
+ "updated": "2026-10-22T21:02+00:00",
+ "feeds": [
+  {
+   "source": "DVSA",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "source": "DVSA Moving On blog",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "source": "Traffic Commissioners",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "source": "Department for Transport",
+   "ok": true,
+   "count": 20
+  }
+ ],
+ "items": [
+  {
+   "title": "Drivers to save up to £300 when installing EV chargers at home, as government slashes unnecessary red tape",
+   "link": "https://www.gov.uk/government/news/drivers-to-save-up-to-300-when-installing-ev-chargers-at-home-as-government-slashes-unnecessary-red-tape",
+   "summary": "From today, people no longer need planning permission to install cross-pavement EV chargers.",
+   "date": "2026-10-20T23:01:05+00:00",
+   "source": "Department for Transport",
+   "tag": "Official"
+  },
+  {
+   "title": "Publication of the DVLA business plan 2026 to 2027",
+   "link": "https://www.gov.uk/government/speeches/publication-of-the-dvla-business-plan-2026-to-2027",
+   "summary": "Announcing publication of the Driver and Vehicle Licensing Agency (DVLA) 2026 to 2027 business plan.",
+   "date": "2026-10-20T11:29:00+00:00",
+   "source": "Department for Transport",
+   "tag": "Official"
+  },
+  {
+   "title": "Traffic Commissioners for Great Britain publish 2025-26 annual report",
+   "link": "https://www.gov.uk/government/news/traffic-commissioners-for-great-britain-publish-2025-26-annual-report",
+   "summary": "The Traffic Commissioners for Great Britain have today (30th September 2026) released their Annual Report to the Secretary of State for 2025 to 2026.",
+   "date": "2026-09-30T11:58:37+00:00",
+   "source": "Traffic Commissioners",
+   "tag": "Official"
+  },
+  {
+   "title": "School minibus operator suspended and fleet cut after serious compliance failings",
+   "link": "https://www.gov.uk/government/news/school-minibus-operator-suspended-and-fleet-cut-after-serious-compliance-failings",
+   "summary": "A North East independent school has had its public service vehicle operator’s licence suspended and curtailed following a public inquiry which identified significant maintenance and compliance shortcomings.",
+   "date": "2026-09-25T15:21:38+00:00",
+   "source": "Traffic Commissioners",
+   "tag": "Official"
+  },
+  {
+   "title": "Senior Traffic Commissioner launches consultation on local bus service performance standards",
+   "link": "https://www.gov.uk/government/news/senior-traffic-commissioner-launches-consultation-on-local-bus-service-performance-standards",
+   "summary": "The Senior Traffic Commissioner for Great Britain has today launched a consultation to review how traffic commissioners assess the performance of local bus services, including punctuality, reliability and wider regulatory ex…",
+   "date": "2026-09-17T15:50:10+00:00",
+   "source": "Traffic Commissioners",
+   "tag": "Official"
+  },
+  {
+   "title": "Chiltern Railways brought into public ownership",
+   "link": "https://www.gov.uk/government/news/chiltern-railways-brought-into-public-ownership",
+   "summary": "Chiltern Railways brought into public ownership with more daily services and more reliable journeys.",
+   "date": "2026-09-17T12:07:34+00:00",
+   "source": "Department for Transport",
+   "tag": "Official"
+  },
+  {
+   "title": "Great British Railways sets course for rail freight growth",
+   "link": "https://www.gov.uk/government/news/great-british-railways-sets-course-for-rail-freight-growth",
+   "summary": "Government sets a new rail freight target to help businesses move more goods by rail, strengthen supply chains and support economic growth.",
+   "date": "2026-09-08T11:02:56+00:00",
+   "source": "Department for Transport",
+   "tag": "Official"
+  },
+  {
+   "title": "Crackdown on illegal number plates with new government funded roads policing team",
+   "link": "https://www.gov.uk/government/news/crackdown-on-illegal-number-plates-with-new-government-funded-roads-policing-team",
+   "summary": "New roads policing centre helping to track down offenders faster and disrupt organised crime groups that rely on England's road network.",
+   "date": "2026-09-05T08:00:05+00:00",
+   "source": "DVSA",
+   "tag": "Official"
+  },
+  {
+   "title": "Free bus travel 24/7 for disabled people as Prime Minister takes further action to ease cost of living",
+   "link": "https://www.gov.uk/government/news/free-bus-travel-247-for-disabled-people-as-prime-minister-takes-further-action-to-ease-cost-of-living",
+   "summary": "Eligible disabled people across England will get free bus travel all day, every day, after the Prime Minister announced today (Tuesday 18 August) that the government will lift time restrictions on concessionary passes.",
+   "date": "2026-08-17T21:30:04+00:00",
+   "source": "Department for Transport",
+   "tag": "Official"
+  },
+  {
+   "title": "Review launched to shape pathway to reach zero emission driving by 2035",
+   "link": "https://www.gov.uk/government/news/review-launched-to-shape-pathway-to-reach-zero-emission-driving-by-2035",
+   "summary": "Submit your views on the ZEV Mandate review consultation by 23 October 2026.",
+   "date": "2026-08-14T13:25:25+00:00",
+   "source": "Department for Transport",
+   "tag": "Official"
+  },
+  {
+   "title": "Two new non-executive directors appointed to the DVSA board",
+   "link": "https://www.gov.uk/government/news/two-new-non-executive-directors-appointed-to-the-dvsa-board",
+   "summary": "Heidi Alexander, Secretary of State for Transport, has appointed 2 new non-executive directors to the Driver and Vehicle Standards Agency (DVSA) board.",
+   "date": "2026-08-14T13:22:55+00:00",
+   "source": "DVSA",
+   "tag": "Official"
+  },
+  {
+   "title": "Furniture firm’s operator licence application refused over “classic Phoenix Syndrome” concerns",
+   "link": "https://www.gov.uk/government/news/furniture-firms-operator-licence-application-refused-over-classic-phoenix-syndrome-concerns",
+   "summary": "A North West furniture manufacturer has been refused an HGV operator’s licence after a Traffic Commissioner found that the company’s sole director had been involved in a repeated pattern of business failures, substantial unp…",
+   "date": "2026-08-04T23:10:54+00:00",
+   "source": "Traffic Commissioners",
+   "tag": "Official"
+  },
+  {
+   "title": "Recycling operator’s fleet halved after widespread tachograph and driver management failures",
+   "link": "https://www.gov.uk/government/news/recycling-operators-fleet-halved-after-widespread-tachograph-and-driver-management-failures",
+   "summary": "A West Midlands recycling operator has had its HGV fleet authorisation cut by 50% after a Traffic Commissioner found serious failings in driver management, tachograph compliance and operational oversight.",
+   "date": "2026-07-31T14:24:37+00:00",
+   "source": "Traffic Commissioners",
+   "tag": "Official"
+  },
+  {
+   "title": "Over £7 million to fuel zero-emission flight across the UK",
+   "link": "https://www.gov.uk/government/news/over-7-million-to-fuel-zero-emission-flight-across-the-uk",
+   "summary": "Announces £7.3 million in funding for 8 projects aiming to fuel the UK's transition to zero-emission flights.",
+   "date": "2026-07-23T14:10:00+00:00",
+   "source": "Department for Transport",
+   "tag": "Official"
+  },
+  {
+   "title": "New stations, faster journeys and better connections as works begin to restore Portishead line for the first time in 60 years",
+   "link": "https://www.gov.uk/government/news/new-stations-faster-journeys-and-better-connections-as-works-begin-to-restore-portishead-line-for-the-first-time-in-60-years",
+   "summary": "With services due to begin in 2028, passengers will be able to travel directly between Portishead and Bristol Temple Meads in around 25 minutes.",
+   "date": "2026-07-23T13:47:39+00:00",
+   "source": "Department for Transport",
+   "tag": "Official"
+  },
+  {
+   "title": "Haulier faces licence revocation after director admitted tachograph fraud",
+   "link": "https://www.gov.uk/government/news/haulier-faces-licence-revocation-after-director-admitted-tachograph-fraud",
+   "summary": "A Somerset haulage operator has had its licence revoked, subject to a period of grace, after the Traffic Commissioner found that its director and transport manager repeatedly falsified drivers’ hours records by using another…",
+   "date": "2026-07-23T08:30:06+00:00",
+   "source": "Traffic Commissioners",
+   "tag": "Official"
+  },
+  {
+   "title": "Operation cracks down on waste crime in Cumbria",
+   "link": "https://www.gov.uk/government/news/operation-cracks-down-on-waste-crime-in-cumbria",
+   "summary": "The Environment Agency has led a major multi-agency operation to tackle waste crime in Cumbria.",
+   "date": "2026-07-14T13:30:18+00:00",
+   "source": "DVSA",
+   "tag": "Official"
+  },
+  {
+   "title": "Transport Secretary engages with EU commissioner on EES border checks ahead of summer holidays",
+   "link": "https://www.gov.uk/government/news/transport-secretary-engages-with-eu-commissioner-on-ees-border-checks-ahead-of-summer-holidays",
+   "summary": "Government is working with the EU to ensure travel across the border is as seamless as possible in summer and through autumn.",
+   "date": "2026-07-14T09:29:49+00:00",
+   "source": "Department for Transport",
+   "tag": "Official"
+  },
+  {
+   "title": "Protecting marketing terms for automated vehicles",
+   "link": "https://www.gov.uk/government/speeches/protecting-marketing-terms-for-automated-vehicles",
+   "summary": "The new regulation sets out authorisation process and marketing terms used to describe authorised or listed self-driving vehicles in Great Britain.…",
+   "date": "2026-07-07T11:54:00+00:00",
+   "source": "Department for Transport",
+   "tag": "Official"
+  },
+  {
+   "title": "Government backs Brighton beaches with new funding",
+   "link": "https://www.gov.uk/government/news/government-backs-brighton-beaches-with-new-funding",
+   "summary": "The £22 million government investment will replace dozens of Victorian arches to avoid the risk of collapse and ensure the road is safe for the next 100 years.",
+   "date": "2026-07-06T10:31:00+00:00",
+   "source": "Department for Transport",
+   "tag": "Official"
+  },
+  {
+   "title": "Operator revoked and faces disqualification after repeated failures to engage with regulator",
+   "link": "https://www.gov.uk/government/news/operator-revoked-and-faces-disqualification-after-repeated-failures-to-engage-with-regulator",
+   "summary": "A Hampshire-based goods vehicle operator has had its operator’s licence revoked after Traffic Commissioner Miles Dorrington found that the company repeatedly failed to engage with both the Traffic Commissioner and the Office…",
+   "date": "2026-07-02T08:36:00+00:00",
+   "source": "Traffic Commissioners",
+   "tag": "Official"
+  }
+ ]
+}
