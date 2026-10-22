@@ -80,7 +80,7 @@ h1, h2, h3 { font-family: var(--display); font-weight: 500; line-height: 1.2; co
 .mp > [data-slot="numbers"] { grid-area: numbers; }
 .mp > [data-slot="news"] { grid-area: news; }
 .mp > [data-slot="tools"] { grid-area: tools; }
-.mp .portal { grid-template-columns: repeat(3, minmax(0, 1fr)); grid-template-areas: "rl kr st"; }
+.mp .portal { grid-template-columns: repeat(3, minmax(0, 1fr)); grid-template-areas: "it ds rs"; }
 .mp .tool-list { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px 28px; }
 .mp .tool-list li + li { margin-top: 0; }
 .box { background: var(--paper-hi); border: 1px solid var(--line); min-width: 0; }
@@ -102,10 +102,10 @@ h1, h2, h3 { font-family: var(--display); font-weight: 500; line-height: 1.2; co
 .changes p { margin: 0; font-size: 15.5px; line-height: 1.5; color: var(--ink-2); }
 
 /* Guide lists, grouped by topic colour */
-.portal { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-areas: "rl kr" "st kr"; gap: 6px 28px; }
-.portal [data-area="rl"] { grid-area: rl; }
-.portal [data-area="kr"] { grid-area: kr; }
-.portal [data-area="st"] { grid-area: st; }
+.portal { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-areas: "it ds" "rs ."; gap: 6px 28px; }
+.portal [data-area="it"] { grid-area: it; }
+.portal [data-area="ds"] { grid-area: ds; }
+.portal [data-area="rs"] { grid-area: rs; }
 .group-title { display: flex; align-items: center; gap: 8px; margin: 4px 0 2px; font: 600 12.5px/1.4 var(--display); letter-spacing: .12em; text-transform: uppercase; color: var(--ink-2); }
 .group-title::before { content: ""; width: 10px; height: 10px; background: var(--cat); }
 .guide-list { margin: 0 0 10px; padding: 0; list-style: none; }
@@ -265,7 +265,7 @@ td strong { font-weight: 600; }
 }
 @media (max-width: 860px) {
   .mp { grid-template-columns: minmax(0, 1fr); grid-template-areas: "changes" "guides" "updates" "numbers" "news" "tools"; }
-  .mp .portal { grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-areas: "rl kr" "st kr"; }
+  .mp .portal { grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-areas: "it ds" "rs ."; }
   .mp .tool-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .with-side { grid-template-columns: minmax(0, 1fr); }
 }
@@ -280,7 +280,7 @@ td strong { font-weight: 600; }
   body { font-size: 16.5px; }
   .header-inner { padding-block: 12px; }
   .nav { gap: 0 16px; }
-  .portal, .mp .portal { grid-template-columns: minmax(0, 1fr); grid-template-areas: "rl" "kr" "st"; }
+  .portal, .mp .portal { grid-template-columns: minmax(0, 1fr); grid-template-areas: "it" "ds" "rs"; }
   .mp .tool-list { grid-template-columns: minmax(0, 1fr); }
   .kv div { grid-template-columns: 7em minmax(0, 1fr); }
   table { font-size: 14.5px; }

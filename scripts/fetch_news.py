@@ -89,6 +89,7 @@ def main():
     cfg = json.loads((ROOT / "feeds.json").read_text(encoding="utf-8"))
     lists = cfg.get("word_lists", {})
     exclude = compile_words(cfg.get("exclude", []))
+    keep_anyway = compile_words(cfg.get("keep_anyway", []))  # beats exclude, e.g. a testing law that also mentions tachographs
     cutoff = datetime.now(timezone.utc) - timedelta(days=cfg.get("max_age_days", 365))
 
     feeds = {}
@@ -100,7 +101,7 @@ def main():
     def keep(item, feed_name):
         f, inc = feeds[feed_name]
         title = normalise(item["title"])
-        if exclude and exclude.search(title):
+        if exclude and exclude.search(title) and not (keep_anyway and keep_anyway.search(title)):
             return False
         return inc is None or bool(inc.search(title))
 

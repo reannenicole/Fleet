@@ -2,13 +2,11 @@
   "max_age_days": 365,
   "max_items": 300,
   "word_lists": {
-    "law": ["vehicle*", "road traffic", "tachograph*", "drivers' hours", "driving licen*", "goods vehicle*",
-            "highway code", "clean air zone*", "road user charg*", "transport act", "certificate of professional competence",
-            "construction and use", "type approval", "MOT"],
-    "fleet": ["vehicle*", "van", "vans", "lorry", "lorries", "HGV*", "goods", "tachograph*", "drivers' hours", "MOT",
+    "law": ["vehicle*", "goods vehicle*", "clean air zone*", "road user charg*", "transport act",
+            "construction and use", "type approval", "roadworthiness", "MOT"],
+    "fleet": ["vehicle*", "van", "vans", "lorry", "lorries", "HGV*", "goods", "MOT",
               "operator*", "o-licen*", "fleet*", "roadworthiness", "speed limiter*", "clean air zone*",
-              "road user charg*", "highway code", "driving licen*", "driver CPC", "certificate of professional competence",
-              "construction and use", "type approval", "towing", "trailer*", "earned recognition", "defect*",
+              "road user charg*", "construction and use", "type approval", "trailer*", "earned recognition", "defect*",
               "inspection*", "recall*", "walkaround", "brake*", "tyre*", "haulage", "haulier*"]
   },
   "exclude": ["trunk road", "motorway", "(temporary restriction", "(temporary prohibition", "(temporary speed",
@@ -16,7 +14,10 @@
               "air navigation", "rail", "railway*", "aviation", "airport*", "maritime", "shipping",
               "theory test*", "driving test*", "motorcycl*", "driving instructor*",
               "notices and proceedings", "applications and decisions", "privacy notice", "welsh language",
-              "building regulations", "leaseholder*"],
+              "building regulations", "leaseholder*",
+              "drivers' hours", "tachograph*", "driving licen*", "driver cpc", "certificate of professional competence",
+              "driver training", "highway code"],
+  "keep_anyway": ["MOT", "testing", "roadworthiness", "construction and use", "type approval", "plating"],
   "feeds": [
     {
       "name": "New UK laws",
@@ -64,8 +65,7 @@
       "section": "updates",
       "type": "Guidance update",
       "url": "https://www.gov.uk/search/guidance-and-regulation.atom?organisations%5B%5D=driver-and-vehicle-licensing-agency&order=updated-newest",
-      "include": ["vehicle tax", "fleet*", "lorry", "lorries", "van", "vans", "goods vehicle*", "commercial vehicle*",
-                  "tachograph*", "licence categor*", "V5C"]
+      "include": ["vehicle tax", "fleet*", "lorry", "lorries", "van", "vans", "goods vehicle*", "commercial vehicle*", "V5C"]
     },
     {
       "name": "DfT consultations",
