@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:10+00:00",
+ "updated": "2026-10-22T22:33+00:00",
  "feeds": [
   {
    "source": "New UK laws",
@@ -31,7 +31,7 @@
    "section": "updates",
    "ok": true,
    "checked": 20,
-   "count": 8
+   "count": 7
   },
   {
    "source": "Traffic Commissioners guidance",
@@ -71,7 +71,7 @@
    "section": "updates",
    "ok": true,
    "checked": 20,
-   "count": 13
+   "count": 12
   },
   {
    "source": "DVSA news",
@@ -95,7 +95,7 @@
    "section": "news",
    "ok": true,
    "checked": 20,
-   "count": 20
+   "count": 17
   },
   {
    "source": "DfT news",
@@ -130,15 +130,6 @@
    "link": "https://www.gov.uk/government/publications/mot-special-notice-05-26-approved-led-replacement-bulbs-in-halogen-headlamps",
    "summary": "From 14 October 2026, approved LED replacement (LEDr) bulbs fitted in halogen headlamps will be allowed in class 3, 4, 5 and 7 MOT tests.",
    "date": "2026-10-13T06:00:07+00:00",
-   "source": "DVSA guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "Get approved to provide dangerous goods (ADR) driver training",
-   "link": "https://www.gov.uk/guidance/get-approved-to-provide-dangerous-goods-adr-driver-training",
-   "summary": "How to set up initial and refresher training courses for ADR drivers including what you need, how much it costs and how to apply.",
-   "date": "2026-10-04T23:01:12+00:00",
    "source": "DVSA guidance",
    "type": "Guidance update",
    "section": "updates"
@@ -270,24 +261,6 @@
    "section": "news"
   },
   {
-   "title": "Recycling operator’s fleet halved after widespread tachograph and driver management failures",
-   "link": "https://www.gov.uk/government/news/recycling-operators-fleet-halved-after-widespread-tachograph-and-driver-management-failures",
-   "summary": "A West Midlands recycling operator has had its HGV fleet authorisation cut by 50% after a Traffic Commissioner found serious failings in driver management, tachograph compliance and operational oversight.",
-   "date": "2026-07-31T14:24:37+00:00",
-   "source": "Traffic Commissioners news",
-   "type": "News",
-   "section": "news"
-  },
-  {
-   "title": "Haulier faces licence revocation after director admitted tachograph fraud",
-   "link": "https://www.gov.uk/government/news/haulier-faces-licence-revocation-after-director-admitted-tachograph-fraud",
-   "summary": "A Somerset haulage operator has had its licence revoked, subject to a period of grace, after the Traffic Commissioner found that its director and transport manager repeatedly falsified drivers’ hours records by using another…",
-   "date": "2026-07-23T08:30:06+00:00",
-   "source": "Traffic Commissioners news",
-   "type": "News",
-   "section": "news"
-  },
-  {
    "title": "Taxation (Energy and Vehicles) Act 2026",
    "link": "http://www.legislation.gov.uk/ukpga/2026/26/2026-07-15",
    "summary": "An Act to increase the rate of electricity generator levy and mileage amounts relating to income tax and to provide for temporary rates of vehicle excise duty for goods vehicles.",
@@ -414,15 +387,6 @@
    "section": "news"
   },
   {
-   "title": "Drivers’ Hours: A Traffic Commissioner’s Perspective on Safety, Compliance, and Responsibility",
-   "link": "https://www.gov.uk/government/news/drivers-hours-a-traffic-commissioners-perspective-on-safety-compliance-and-responsibility",
-   "summary": "In commercial road transport, few regulations are as vital to public safety and operational integrity as the rules governing drivers’ hours.",
-   "date": "2026-03-23T11:01:00+00:00",
-   "source": "Traffic Commissioners news",
-   "type": "News",
-   "section": "news"
-  },
-  {
    "title": "Transport Manager Removed",
    "link": "https://www.gov.uk/government/news/transport-manager-removed",
    "summary": "The Traffic Commissioner for the North West of England, David Mullan, has taken action against Supreme Minibuses Limited following a Public Inquiry held on 3 February 2026.",
@@ -439,6 +403,15 @@
    "source": "DVSA Moving On blog",
    "type": "News",
    "section": "news"
+  },
+  {
+   "title": "Improving moped and motorcycle training, testing and licensing",
+   "link": "https://www.gov.uk/government/consultations/improving-moped-and-motorcycle-training-testing-and-licensing",
+   "summary": "We are consulting on changes to moped and motorcycle training, testing and licensing to improve road safety and simplify people's access to motorcycling.",
+   "date": "2026-02-16T16:01:10+00:00",
+   "source": "DVSA consultations",
+   "type": "Consultation",
+   "section": "updates"
   },
   {
    "title": "Changes to Heavy Vehicle testing in early 2026",
