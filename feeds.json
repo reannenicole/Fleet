@@ -14,13 +14,15 @@
   "exclude": ["trunk road", "motorway", "(temporary restriction", "(temporary prohibition", "(temporary speed",
               "(temporary traffic", "prohibition of traffic", "restriction of traffic", "prohibition of driving",
               "air navigation", "rail", "railway*", "aviation", "airport*", "maritime", "shipping",
-              "theory test*", "driving test*", "motorcycl*", "driving instructor*"],
+              "theory test*", "driving test*", "motorcycl*", "driving instructor*",
+              "notices and proceedings", "applications and decisions", "privacy notice", "welsh language",
+              "building regulations", "leaseholder*"],
   "feeds": [
     {
       "name": "New UK laws",
       "section": "updates",
       "type": "New law",
-      "url": "https://www.legislation.gov.uk/new/uksi/data.feed",
+      "url": ["https://www.legislation.gov.uk/new/uksi/data.feed", "https://www.legislation.gov.uk/new/uksi/data.feed?page=2"],
       "include": "law"
     },
     {

@@ -37,7 +37,7 @@ Edit `feeds.json`:
 
 - `word_lists` are the words an item's title must contain to be kept. A word ending in `*` matches anything starting with it, so `tachograph*` matches tachograph and tachographs.
 - `exclude` drops any item whose title contains one of those words.
-- Each feed has a `name`, a `section` (`updates` or `news`), a `type` (the label shown on the site) and an optional `include` list.
+- Each feed has a `name`, a `section` (`updates` or `news`), a `type` (the label shown on the site), a `url` (or a list of URLs, to read more than one page) and an optional `include` list.
 
 Saving a change to `feeds.json` runs the update automatically.
 
