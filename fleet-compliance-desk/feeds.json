@@ -1,0 +1,27 @@
+{
+  "_comment": "Each feed must be an RSS or Atom URL. Add or remove feeds here; the daily update picks them up automatically.",
+  "max_age_days": 120,
+  "max_items": 120,
+  "feeds": [
+    {
+      "name": "DVSA",
+      "tag": "Official",
+      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=driver-and-vehicle-standards-agency"
+    },
+    {
+      "name": "DVSA Moving On blog",
+      "tag": "Official",
+      "url": "https://movingon.blog.gov.uk/feed/"
+    },
+    {
+      "name": "Traffic Commissioners",
+      "tag": "Official",
+      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=traffic-commissioners"
+    },
+    {
+      "name": "Department for Transport",
+      "tag": "Official",
+      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-transport&keywords=vehicle"
+    }
+  ]
+}

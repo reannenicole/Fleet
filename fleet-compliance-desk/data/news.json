@@ -1,0 +1,32 @@
+{
+ "updated": null,
+ "feeds": [
+  {"source": "DVSA Moving On blog", "ok": true, "count": 3}
+ ],
+ "items": [
+  {
+   "title": "How to stay compliant with aftermarket light products: vulnerable road user signs, decorative lights, and warning beacons",
+   "link": "https://movingon.blog.gov.uk",
+   "summary": "Starter headline so the page isn't empty. The first daily update replaces this list with live headlines from every source.",
+   "date": "2026-04-29T10:47:45+00:00",
+   "source": "DVSA Moving On blog",
+   "tag": "Official"
+  },
+  {
+   "title": "DVSA and CPT's experience exchange",
+   "link": "https://movingon.blog.gov.uk",
+   "summary": "",
+   "date": "2026-04-02T15:23:13+00:00",
+   "source": "DVSA Moving On blog",
+   "tag": "Official"
+  },
+  {
+   "title": "Modern Systems for a Modern Industry – how MyVT is transforming experiences",
+   "link": "https://movingon.blog.gov.uk",
+   "summary": "",
+   "date": "2026-02-25T11:19:32+00:00",
+   "source": "DVSA Moving On blog",
+   "tag": "Official"
+  }
+ ]
+}
