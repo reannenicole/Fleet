@@ -107,9 +107,11 @@ def main():
     fresh, report = [], []
     for name, (f, _) in feeds.items():
         try:
-            req = urllib.request.Request(f["url"], headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=30) as r:
-                items = parse(r.read())
+            items = []
+            for url in (f["url"] if isinstance(f["url"], list) else [f["url"]]):  # a feed can list several pages
+                req = urllib.request.Request(url, headers={"User-Agent": UA})
+                with urllib.request.urlopen(req, timeout=30) as r:
+                    items.extend(parse(r.read()))
             kept = [i for i in items if keep(i, name)]
             for i in kept:
                 i["source"] = name
