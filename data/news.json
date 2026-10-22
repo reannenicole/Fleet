@@ -1,195 +1,705 @@
 {
- "updated": "2026-10-22T21:02+00:00",
+ "updated": "2026-10-22T22:08+00:00",
  "feeds": [
   {
-   "source": "DVSA",
+   "source": "New UK laws",
+   "type": "New law",
+   "section": "updates",
    "ok": true,
+   "checked": 20,
+   "count": 0
+  },
+  {
+   "source": "New Acts of Parliament",
+   "type": "New law",
+   "section": "updates",
+   "ok": true,
+   "checked": 20,
+   "count": 1
+  },
+  {
+   "source": "Draft laws before Parliament",
+   "type": "Draft law",
+   "section": "updates",
+   "ok": true,
+   "checked": 20,
+   "count": 0
+  },
+  {
+   "source": "DVSA guidance",
+   "type": "Guidance update",
+   "section": "updates",
+   "ok": true,
+   "checked": 20,
+   "count": 8
+  },
+  {
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates",
+   "ok": true,
+   "checked": 20,
    "count": 20
+  },
+  {
+   "source": "DfT guidance",
+   "type": "Guidance update",
+   "section": "updates",
+   "ok": true,
+   "checked": 20,
+   "count": 1
+  },
+  {
+   "source": "DVLA guidance",
+   "type": "Guidance update",
+   "section": "updates",
+   "ok": true,
+   "checked": 20,
+   "count": 3
+  },
+  {
+   "source": "DfT consultations",
+   "type": "Consultation",
+   "section": "updates",
+   "ok": true,
+   "checked": 20,
+   "count": 6
+  },
+  {
+   "source": "DVSA consultations",
+   "type": "Consultation",
+   "section": "updates",
+   "ok": true,
+   "checked": 20,
+   "count": 13
+  },
+  {
+   "source": "DVSA news",
+   "type": "News",
+   "section": "news",
+   "ok": true,
+   "checked": 20,
+   "count": 2
   },
   {
    "source": "DVSA Moving On blog",
+   "type": "News",
+   "section": "news",
    "ok": true,
+   "checked": 10,
    "count": 10
   },
   {
-   "source": "Traffic Commissioners",
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news",
    "ok": true,
+   "checked": 20,
    "count": 20
   },
   {
-   "source": "Department for Transport",
+   "source": "DfT news",
+   "type": "News",
+   "section": "news",
    "ok": true,
-   "count": 20
+   "checked": 20,
+   "count": 0
   }
  ],
  "items": [
   {
-   "title": "Drivers to save up to £300 when installing EV chargers at home, as government slashes unnecessary red tape",
-   "link": "https://www.gov.uk/government/news/drivers-to-save-up-to-300-when-installing-ev-chargers-at-home-as-government-slashes-unnecessary-red-tape",
-   "summary": "From today, people no longer need planning permission to install cross-pavement EV chargers.",
-   "date": "2026-10-20T23:01:05+00:00",
-   "source": "Department for Transport",
-   "tag": "Official"
+   "title": "PSV notices and proceedings for Wales",
+   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-wales",
+   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for Wales.",
+   "date": "2026-10-22T13:23:34+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
   },
   {
-   "title": "Publication of the DVLA business plan 2026 to 2027",
-   "link": "https://www.gov.uk/government/speeches/publication-of-the-dvla-business-plan-2026-to-2027",
-   "summary": "Announcing publication of the Driver and Vehicle Licensing Agency (DVLA) 2026 to 2027 business plan.",
-   "date": "2026-10-20T11:29:00+00:00",
-   "source": "Department for Transport",
-   "tag": "Official"
+   "title": "PSV notices and proceedings for the west of England",
+   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-the-west-of-england",
+   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for the west of England.",
+   "date": "2026-10-22T13:23:28+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Goods vehicle applications and decisions for London and the south east of England",
+   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-london-and-the-south-east-of-england",
+   "summary": "Applications for goods vehicle operator licences to, and decisions made by, the Traffic Commissioner for London and the south east of England.",
+   "date": "2026-10-22T13:23:19+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Goods vehicle applications and decisions for the west of England",
+   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-the-west-of-england",
+   "summary": "Applications for good vehicle operator licences to, and decisions made by, the Traffic Commissioner for the west of England.",
+   "date": "2026-10-22T13:23:11+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "PSV notices and proceedings for the north west of England",
+   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-the-north-west-of-england",
+   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for the North West of England.",
+   "date": "2026-10-21T15:59:02+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "PSV notices and proceedings for the east of England",
+   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-the-east-of-england",
+   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for the east of England.",
+   "date": "2026-10-21T15:58:58+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Goods vehicle applications and decisions for the north east of England",
+   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-the-north-east-of-england",
+   "summary": "Applications for goods vehicle operator licences to, and decisions made by, the Traffic Commissioner for the north east of England.",
+   "date": "2026-10-21T15:58:53+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Goods vehicle applications and decisions for the east of England",
+   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-the-east-of-england",
+   "summary": "Applications for goods vehicle operator licences to, and decisions made by, the Traffic Commissioner for the east of England.",
+   "date": "2026-10-21T15:58:48+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Goods vehicle applications and decisions for Wales",
+   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-wales",
+   "summary": "Applications for goods vehicle operator licences to, and decisions made by, the Traffic Commissioner for Wales.",
+   "date": "2026-10-21T15:58:43+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Amending the building regulations: electric vehicle charging infrastructure",
+   "link": "https://www.gov.uk/government/consultations/amending-the-building-regulations-electric-vehicle-charging-infrastructure",
+   "summary": "Seeks views on proposals to support the installation of electric vehicle (EV) charge points in England.",
+   "date": "2026-10-20T23:01:05+00:00",
+   "source": "DfT consultations",
+   "type": "Consultation",
+   "section": "updates"
+  },
+  {
+   "title": "Expanding electric vehicle charging access for tenants and leaseholders",
+   "link": "https://www.gov.uk/government/consultations/expanding-electric-vehicle-charging-access-for-tenants-and-leaseholders",
+   "summary": "Seeks views on measures to improve access to electric vehicle (EV) charging for tenants and leaseholders in England.",
+   "date": "2026-10-20T23:01:05+00:00",
+   "source": "DfT consultations",
+   "type": "Consultation",
+   "section": "updates"
+  },
+  {
+   "title": "Goods vehicle applications and decisions for the West Midlands",
+   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-the-west-midlands",
+   "summary": "Applications for goods vehicle operator licences to, and decisions made by, the Traffic Commissioner for the West Midlands.",
+   "date": "2026-10-19T20:32:14+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "PSV notices and proceedings for Scotland",
+   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-scotland",
+   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for Scotland.",
+   "date": "2026-10-19T20:32:10+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "PSV notices and proceedings for the West Midlands",
+   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-the-west-midlands",
+   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for the West Midlands.",
+   "date": "2026-10-19T20:32:04+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "PSV notices and proceedings for London and the south east of England",
+   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-london-and-the-south-east-of-england",
+   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for London and the south east of England.",
+   "date": "2026-10-19T20:31:59+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Goods vehicle applications and decisions for Scotland",
+   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-scotland",
+   "summary": "Applications for goods vehicle operator licences to, and decisions made by, the Traffic Commissioner for Scotland.",
+   "date": "2026-10-19T20:31:53+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "PSV notices and proceedings for the north east of England",
+   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-the-north-east-of-england",
+   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for the north east of England.",
+   "date": "2026-10-16T10:51:23+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Goods vehicle applications and decisions for the north west of England",
+   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-the-north-west-of-england",
+   "summary": "Applications for goods vehicle operator licences to, and decisions made by, the Traffic Commissioner for the north west of England.",
+   "date": "2026-10-16T10:49:05+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Zero emission vehicle grant portal",
+   "link": "https://www.gov.uk/government/publications/plug-in-vehicle-grant-portal-guidance",
+   "summary": "Using the zero emission vehicle grant portal to apply for funding as a car manufacturer or dealership.",
+   "date": "2026-10-14T07:06:42+00:00",
+   "source": "DfT guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "MOT inspection manual: cars and passenger vehicles",
+   "link": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles",
+   "summary": "Inspection processes and rules for car, private bus and light commercial vehicle (class 3, 4, 5 and 7 vehicle) MOT tests.",
+   "date": "2026-10-14T06:54:16+00:00",
+   "source": "DVSA guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "MOT special notice 05-26: approved LED replacement bulbs in halogen headlamps",
+   "link": "https://www.gov.uk/government/publications/mot-special-notice-05-26-approved-led-replacement-bulbs-in-halogen-headlamps",
+   "summary": "From 14 October 2026, approved LED replacement (LEDr) bulbs fitted in halogen headlamps will be allowed in class 3, 4, 5 and 7 MOT tests.",
+   "date": "2026-10-13T06:00:07+00:00",
+   "source": "DVSA guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Get approved to provide dangerous goods (ADR) driver training",
+   "link": "https://www.gov.uk/guidance/get-approved-to-provide-dangerous-goods-adr-driver-training",
+   "summary": "How to set up initial and refresher training courses for ADR drivers including what you need, how much it costs and how to apply.",
+   "date": "2026-10-04T23:01:12+00:00",
+   "source": "DVSA guidance",
+   "type": "Guidance update",
+   "section": "updates"
   },
   {
    "title": "Traffic Commissioners for Great Britain publish 2025-26 annual report",
    "link": "https://www.gov.uk/government/news/traffic-commissioners-for-great-britain-publish-2025-26-annual-report",
    "summary": "The Traffic Commissioners for Great Britain have today (30th September 2026) released their Annual Report to the Secretary of State for 2025 to 2026.",
    "date": "2026-09-30T11:58:37+00:00",
-   "source": "Traffic Commissioners",
-   "tag": "Official"
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
   },
   {
    "title": "School minibus operator suspended and fleet cut after serious compliance failings",
    "link": "https://www.gov.uk/government/news/school-minibus-operator-suspended-and-fleet-cut-after-serious-compliance-failings",
    "summary": "A North East independent school has had its public service vehicle operator’s licence suspended and curtailed following a public inquiry which identified significant maintenance and compliance shortcomings.",
    "date": "2026-09-25T15:21:38+00:00",
-   "source": "Traffic Commissioners",
-   "tag": "Official"
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Securing loads on HGVs and goods vehicles",
+   "link": "https://www.gov.uk/guidance/securing-loads-on-hgvs-and-goods-vehicles",
+   "summary": "How to make sure goods and other items are loaded, secured and unloaded safely from HGVs, trailers, vans and cars.",
+   "date": "2026-09-24T11:16:34+00:00",
+   "source": "DVSA guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "6. How to carry different types of load in HGVs and goods vehicles",
+   "link": "https://www.gov.uk/guidance/securing-loads-on-hgvs-and-goods-vehicles/6-how-to-carry-different-types-of-load-in-hgvs-and-goods-vehicles",
+   "summary": "Ways to load items on a goods vehicle safely.",
+   "date": "2026-09-24T11:16:34+00:00",
+   "source": "DVSA guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Find a dangerous goods safety adviser",
+   "link": "https://www.gov.uk/government/publications/find-a-dangerous-goods-safety-adviser",
+   "summary": "Find contact details for dangerous goods safety advisers (DGSA) that can help you transport dangerous goods safely.",
+   "date": "2026-09-23T16:02:42+00:00",
+   "source": "DVSA guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "MOT testing guide for test stations",
+   "link": "https://www.gov.uk/guidance/mot-testing-guide",
+   "summary": "How the MOT scheme is administered and the rules for authorised examiners, testers and testing different types of vehicles.",
+   "date": "2026-09-22T09:59:54+00:00",
+   "source": "DVSA guidance",
+   "type": "Guidance update",
+   "section": "updates"
   },
   {
    "title": "Senior Traffic Commissioner launches consultation on local bus service performance standards",
    "link": "https://www.gov.uk/government/news/senior-traffic-commissioner-launches-consultation-on-local-bus-service-performance-standards",
    "summary": "The Senior Traffic Commissioner for Great Britain has today launched a consultation to review how traffic commissioners assess the performance of local bus services, including punctuality, reliability and wider regulatory ex…",
    "date": "2026-09-17T15:50:10+00:00",
-   "source": "Traffic Commissioners",
-   "tag": "Official"
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
   },
   {
-   "title": "Chiltern Railways brought into public ownership",
-   "link": "https://www.gov.uk/government/news/chiltern-railways-brought-into-public-ownership",
-   "summary": "Chiltern Railways brought into public ownership with more daily services and more reliable journeys.",
-   "date": "2026-09-17T12:07:34+00:00",
-   "source": "Department for Transport",
-   "tag": "Official"
+   "title": "Electric vehicle charging: changes to permitted development rights",
+   "link": "https://www.gov.uk/government/consultations/electric-vehicle-charging-changes-to-permitted-development-rights",
+   "summary": "Changes to permitted development rights to support the installation of electric vehicle charging infrastructure.",
+   "date": "2026-09-11T14:12:41+00:00",
+   "source": "DfT consultations",
+   "type": "Consultation",
+   "section": "updates"
   },
   {
-   "title": "Great British Railways sets course for rail freight growth",
-   "link": "https://www.gov.uk/government/news/great-british-railways-sets-course-for-rail-freight-growth",
-   "summary": "Government sets a new rail freight target to help businesses move more goods by rail, strengthen supply chains and support economic growth.",
-   "date": "2026-09-08T11:02:56+00:00",
-   "source": "Department for Transport",
-   "tag": "Official"
+   "title": "Find software and IT that works with DVSA earned recognition",
+   "link": "https://www.gov.uk/government/publications/dvsa-earned-recognition-it-or-software-you-need",
+   "summary": "Find driver and vehicle software and IT systems that can report on performance measures for the DVSA earned recognition scheme for vehicle operators.",
+   "date": "2026-09-07T15:12:06+00:00",
+   "source": "DVSA guidance",
+   "type": "Guidance update",
+   "section": "updates"
   },
   {
-   "title": "Crackdown on illegal number plates with new government funded roads policing team",
-   "link": "https://www.gov.uk/government/news/crackdown-on-illegal-number-plates-with-new-government-funded-roads-policing-team",
-   "summary": "New roads policing centre helping to track down offenders faster and disrupt organised crime groups that rely on England's road network.",
-   "date": "2026-09-05T08:00:05+00:00",
-   "source": "DVSA",
-   "tag": "Official"
+   "title": "In-use emissions of road vehicles: regulating environmental impacts",
+   "link": "https://www.gov.uk/government/consultations/in-use-emissions-of-road-vehicles-regulating-environmental-impacts",
+   "summary": "Seeks views on proposals to strengthen the law around emissions from motor vehicles that are in-use on GB roads.",
+   "date": "2026-08-18T16:51:02+00:00",
+   "source": "DfT consultations",
+   "type": "Consultation",
+   "section": "updates"
   },
   {
-   "title": "Free bus travel 24/7 for disabled people as Prime Minister takes further action to ease cost of living",
-   "link": "https://www.gov.uk/government/news/free-bus-travel-247-for-disabled-people-as-prime-minister-takes-further-action-to-ease-cost-of-living",
-   "summary": "Eligible disabled people across England will get free bus travel all day, every day, after the Prime Minister announced today (Tuesday 18 August) that the government will lift time restrictions on concessionary passes.",
-   "date": "2026-08-17T21:30:04+00:00",
-   "source": "Department for Transport",
-   "tag": "Official"
+   "title": "Updating GB type approval for passenger and goods vehicles",
+   "link": "https://www.gov.uk/government/consultations/updating-gb-type-approval-for-passenger-and-goods-vehicles",
+   "summary": "Incorporating certain EU and international vehicle regulations into the GB type approval scheme.",
+   "date": "2026-08-18T13:00:06+00:00",
+   "source": "DfT consultations",
+   "type": "Consultation",
+   "section": "updates"
   },
   {
-   "title": "Review launched to shape pathway to reach zero emission driving by 2035",
-   "link": "https://www.gov.uk/government/news/review-launched-to-shape-pathway-to-reach-zero-emission-driving-by-2035",
-   "summary": "Submit your views on the ZEV Mandate review consultation by 23 October 2026.",
-   "date": "2026-08-14T13:25:25+00:00",
-   "source": "Department for Transport",
-   "tag": "Official"
+   "title": "Zero emission vehicle mandate review",
+   "link": "https://www.gov.uk/government/consultations/zero-emission-vehicle-mandate-review",
+   "summary": "Seeks views on the zero emission vehicle (ZEV) mandate and its effectiveness in the UK.",
+   "date": "2026-08-14T13:25:00+00:00",
+   "source": "DfT consultations",
+   "type": "Consultation",
+   "section": "updates"
   },
   {
-   "title": "Two new non-executive directors appointed to the DVSA board",
-   "link": "https://www.gov.uk/government/news/two-new-non-executive-directors-appointed-to-the-dvsa-board",
-   "summary": "Heidi Alexander, Secretary of State for Transport, has appointed 2 new non-executive directors to the Driver and Vehicle Standards Agency (DVSA) board.",
-   "date": "2026-08-14T13:22:55+00:00",
-   "source": "DVSA",
-   "tag": "Official"
+   "title": "Operator Compliance Audits",
+   "link": "https://www.gov.uk/government/publications/operator-compliance-audits",
+   "summary": "A guide for operator's licence holders on what an acceptable compliance audit should cover.",
+   "date": "2026-08-14T13:17:04+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
   },
   {
    "title": "Furniture firm’s operator licence application refused over “classic Phoenix Syndrome” concerns",
    "link": "https://www.gov.uk/government/news/furniture-firms-operator-licence-application-refused-over-classic-phoenix-syndrome-concerns",
    "summary": "A North West furniture manufacturer has been refused an HGV operator’s licence after a Traffic Commissioner found that the company’s sole director had been involved in a repeated pattern of business failures, substantial unp…",
    "date": "2026-08-04T23:10:54+00:00",
-   "source": "Traffic Commissioners",
-   "tag": "Official"
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
   },
   {
    "title": "Recycling operator’s fleet halved after widespread tachograph and driver management failures",
    "link": "https://www.gov.uk/government/news/recycling-operators-fleet-halved-after-widespread-tachograph-and-driver-management-failures",
    "summary": "A West Midlands recycling operator has had its HGV fleet authorisation cut by 50% after a Traffic Commissioner found serious failings in driver management, tachograph compliance and operational oversight.",
    "date": "2026-07-31T14:24:37+00:00",
-   "source": "Traffic Commissioners",
-   "tag": "Official"
-  },
-  {
-   "title": "Over £7 million to fuel zero-emission flight across the UK",
-   "link": "https://www.gov.uk/government/news/over-7-million-to-fuel-zero-emission-flight-across-the-uk",
-   "summary": "Announces £7.3 million in funding for 8 projects aiming to fuel the UK's transition to zero-emission flights.",
-   "date": "2026-07-23T14:10:00+00:00",
-   "source": "Department for Transport",
-   "tag": "Official"
-  },
-  {
-   "title": "New stations, faster journeys and better connections as works begin to restore Portishead line for the first time in 60 years",
-   "link": "https://www.gov.uk/government/news/new-stations-faster-journeys-and-better-connections-as-works-begin-to-restore-portishead-line-for-the-first-time-in-60-years",
-   "summary": "With services due to begin in 2028, passengers will be able to travel directly between Portishead and Bristol Temple Meads in around 25 minutes.",
-   "date": "2026-07-23T13:47:39+00:00",
-   "source": "Department for Transport",
-   "tag": "Official"
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
   },
   {
    "title": "Haulier faces licence revocation after director admitted tachograph fraud",
    "link": "https://www.gov.uk/government/news/haulier-faces-licence-revocation-after-director-admitted-tachograph-fraud",
    "summary": "A Somerset haulage operator has had its licence revoked, subject to a period of grace, after the Traffic Commissioner found that its director and transport manager repeatedly falsified drivers’ hours records by using another…",
    "date": "2026-07-23T08:30:06+00:00",
-   "source": "Traffic Commissioners",
-   "tag": "Official"
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
   },
   {
-   "title": "Operation cracks down on waste crime in Cumbria",
-   "link": "https://www.gov.uk/government/news/operation-cracks-down-on-waste-crime-in-cumbria",
-   "summary": "The Environment Agency has led a major multi-agency operation to tackle waste crime in Cumbria.",
-   "date": "2026-07-14T13:30:18+00:00",
-   "source": "DVSA",
-   "tag": "Official"
+   "title": "Taxation (Energy and Vehicles) Act 2026",
+   "link": "http://www.legislation.gov.uk/ukpga/2026/26/2026-07-15",
+   "summary": "An Act to increase the rate of electricity generator levy and mileage amounts relating to income tax and to provide for temporary rates of vehicle excise duty for goods vehicles.",
+   "date": "2026-07-15T14:58:03.989258+00:00",
+   "source": "New Acts of Parliament",
+   "type": "New law",
+   "section": "updates"
   },
   {
-   "title": "Transport Secretary engages with EU commissioner on EES border checks ahead of summer holidays",
-   "link": "https://www.gov.uk/government/news/transport-secretary-engages-with-eu-commissioner-on-ees-border-checks-ahead-of-summer-holidays",
-   "summary": "Government is working with the EU to ensure travel across the border is as seamless as possible in summer and through autumn.",
-   "date": "2026-07-14T09:29:49+00:00",
-   "source": "Department for Transport",
-   "tag": "Official"
-  },
-  {
-   "title": "Protecting marketing terms for automated vehicles",
-   "link": "https://www.gov.uk/government/speeches/protecting-marketing-terms-for-automated-vehicles",
-   "summary": "The new regulation sets out authorisation process and marketing terms used to describe authorised or listed self-driving vehicles in Great Britain.…",
-   "date": "2026-07-07T11:54:00+00:00",
-   "source": "Department for Transport",
-   "tag": "Official"
-  },
-  {
-   "title": "Government backs Brighton beaches with new funding",
-   "link": "https://www.gov.uk/government/news/government-backs-brighton-beaches-with-new-funding",
-   "summary": "The £22 million government investment will replace dozens of Victorian arches to avoid the risk of collapse and ensure the road is safe for the next 100 years.",
-   "date": "2026-07-06T10:31:00+00:00",
-   "source": "Department for Transport",
-   "tag": "Official"
+   "title": "Temporary £1 vehicle tax for most heavy goods vehicles (HGV)",
+   "link": "https://www.gov.uk/guidance/temporary-1-vehicle-tax-for-most-heavy-goods-vehicles-hgv",
+   "summary": "Check if your HGV qualifies for the temporary £1 vehicle tax rate.",
+   "date": "2026-07-03T14:17:07+00:00",
+   "source": "DVLA guidance",
+   "type": "Guidance update",
+   "section": "updates"
   },
   {
    "title": "Operator revoked and faces disqualification after repeated failures to engage with regulator",
    "link": "https://www.gov.uk/government/news/operator-revoked-and-faces-disqualification-after-repeated-failures-to-engage-with-regulator",
    "summary": "A Hampshire-based goods vehicle operator has had its operator’s licence revoked after Traffic Commissioner Miles Dorrington found that the company repeatedly failed to engage with both the Traffic Commissioner and the Office…",
    "date": "2026-07-02T08:36:00+00:00",
-   "source": "Traffic Commissioners",
-   "tag": "Official"
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Vehicle tax rates (V149 and V149/1)",
+   "link": "https://www.gov.uk/government/publications/rates-of-vehicle-tax-v149",
+   "summary": "Rates of vehicle tax for all types of vehicle.",
+   "date": "2026-06-30T23:01:00+00:00",
+   "source": "DVLA guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Changes to HGV, bus and trailer MOT centre service charges",
+   "link": "https://www.gov.uk/government/consultations/changes-to-hgv-bus-and-trailer-mot-centre-service-charges",
+   "summary": "Proposals to increase how much MOT centres for heavy goods vehicles (HGV), buses, coaches and trailers can charge customers for using their facilities.",
+   "date": "2026-06-22T10:12:13+00:00",
+   "source": "DVSA consultations",
+   "type": "Consultation",
+   "section": "updates"
+  },
+  {
+   "title": "Traffic Commissioner Welsh Language Scheme 2026-2029",
+   "link": "https://www.gov.uk/guidance/traffic-commissioner-welsh-language-scheme-2026-2029",
+   "summary": "This scheme sets out how TCs will uphold this principle when providing services to the public in Wales.",
+   "date": "2026-06-19T14:06:12+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Miles Dorrington to retire as Traffic Commissioner for the West Midlands",
+   "link": "https://www.gov.uk/government/news/miles-dorrington-to-retire-as-traffic-commissioner-for-the-west-midlands--3",
+   "summary": "Miles Dorrington, Traffic Commissioner for the West Midlands Traffic Area, is to retire from his role as a full-time Traffic Commissioner.",
+   "date": "2026-06-04T14:57:45+00:00",
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Traffic Commissioners for Great Britain: privacy notice",
+   "link": "https://www.gov.uk/government/publications/traffic-commissioners-for-great-britain-privacy-notice",
+   "summary": "How the Traffic Commissioners will use your personal data for the administration of operator licensing.",
+   "date": "2026-05-13T12:39:36+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Operator’s licence revoked after serious maintenance and safety failures",
+   "link": "https://www.gov.uk/government/news/operators-licence-revoked-after-serious-maintenance-and-safety-failures",
+   "summary": "A West Midlands goods vehicle operator has had its licence revoked and a company director disqualified following a public inquiry.",
+   "date": "2026-05-07T11:13:47+00:00",
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "How to stay compliant with aftermarket light products: vulnerable road user signs, decorative lights, and warning beacons",
+   "link": "https://movingon.blog.gov.uk/2026/04/29/how-to-stay-compliant-with-aftermarket-light-products-vulnerable-road-user-signs-decorative-lights-and-warning-beacons/",
+   "summary": "Many drivers fit aftermarket devices to their vehicles, often with the best intentions – particularly when it comes to protecting vulnerable road users like cyclists and pedestrians. But your vehicle must be compliant...",
+   "date": "2026-04-29T10:47:45+00:00",
+   "source": "DVSA Moving On blog",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Statutory Document Summaries",
+   "link": "https://www.gov.uk/government/news/statutory-document-summaries",
+   "summary": "The Traffic Commissioners are pleased to announce that they have published Statutory Document Summaries.",
+   "date": "2026-04-23T16:06:00+00:00",
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Senior Traffic Commissioner Statutory Document Summaries",
+   "link": "https://www.gov.uk/guidance/senior-traffic-commissioner-statutory-document-summaries",
+   "summary": "A summary of the Statutory Documents.",
+   "date": "2026-04-21T13:43:00+00:00",
+   "source": "Traffic Commissioners guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Excessive Absence",
+   "link": "https://www.gov.uk/government/news/excessive-absence",
+   "summary": "The Traffic Commissioner for the West Midlands, Miles Dorrington, has revoked the operator’s licence held by Mr Sukhvinder Singh, following a Public Inquiry held on 5 February 2026. The revocation will take effect at 23:45 o…",
+   "date": "2026-04-07T08:30:01+00:00",
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "DVSA and CPT’s experience exchange",
+   "link": "https://movingon.blog.gov.uk/2026/04/02/dvsa-and-cpts-experience-exchange/",
+   "summary": "Senior leaders from DVSA and CPT came together for immersive visits designed to give a practical understanding of each organisation’s work and the pressures they face.",
+   "date": "2026-04-02T15:23:13+00:00",
+   "source": "DVSA Moving On blog",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Vehicle tax for electric, zero and low emission vehicles",
+   "link": "https://www.gov.uk/guidance/vehicle-tax-for-electric-and-low-emissions-vehicles",
+   "summary": "How the Vehicle Excise Duty (VED) changes affect your vehicle.",
+   "date": "2026-04-02T15:10:46+00:00",
+   "source": "DVLA guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "Not so Quick",
+   "link": "https://www.gov.uk/government/news/not-so-quick",
+   "summary": "The Traffic Commissioner for the East of England, Richard Turfitt, has taken regulatory action against HGV Quick Transport Ltd and its Transport Manager, Sergiu Florin Leho, following a series of significant compliance failu…",
+   "date": "2026-03-30T08:30:03+00:00",
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Drivers’ Hours: A Traffic Commissioner’s Perspective on Safety, Compliance, and Responsibility",
+   "link": "https://www.gov.uk/government/news/drivers-hours-a-traffic-commissioners-perspective-on-safety-compliance-and-responsibility",
+   "summary": "In commercial road transport, few regulations are as vital to public safety and operational integrity as the rules governing drivers’ hours.",
+   "date": "2026-03-23T11:01:00+00:00",
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Transport Manager Removed",
+   "link": "https://www.gov.uk/government/news/transport-manager-removed",
+   "summary": "The Traffic Commissioner for the North West of England, David Mullan, has taken action against Supreme Minibuses Limited following a Public Inquiry held on 3 February 2026.",
+   "date": "2026-03-17T09:33:54+00:00",
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Modern Systems for a Modern Industry – how MyVT is transforming experiences",
+   "link": "https://movingon.blog.gov.uk/2026/02/25/modern-systems-for-a-modern-industry-how-myvt-is-transforming-experiences/",
+   "summary": "Over the past few years, we’ve made major changes to how Individual Vehicle Approval (IVA) applications are processed. We have introduced Manage your Vehicle Testing (MyVT) – the successor to the Technical Application System (TAS) – a new digital system designed to save you…",
+   "date": "2026-02-25T11:19:32+00:00",
+   "source": "DVSA Moving On blog",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Changes to Heavy Vehicle testing in early 2026",
+   "link": "https://movingon.blog.gov.uk/2026/02/13/changes-to-heavy-vehicle-testing-in-early-2026/",
+   "summary": "Over the last few months, we’ve sent out information on some of the changes coming into the heavy vehicle testing process.",
+   "date": "2026-02-13T13:35:44+00:00",
+   "source": "DVSA Moving On blog",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Licence Revoked, Application Refused, Repute Tarnished",
+   "link": "https://www.gov.uk/government/news/licence-revoked-application-refused-repute-tarnished",
+   "summary": "The Traffic Commissioner for the North West of England, David Mullan, has revoked the licence of MDB Logistics Limited, refused the application of J&M Plant Hire Ltd , and the transport manager has been told his Good Rep…",
+   "date": "2026-02-06T15:51:11+00:00",
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Creating a Vehicle Examination Facility network for approvals tests",
+   "link": "https://movingon.blog.gov.uk/2026/02/04/creating-a-vehicle-examination-facility-network-for-approvals-tests/",
+   "summary": "We’re transforming the way we conduct vehicle approval services, introducing Vehicle Examination Facilities for Individual Vehicle Approval and Motorcycle Single Vehicle Approval...",
+   "date": "2026-02-04T13:54:40+00:00",
+   "source": "DVSA Moving On blog",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "MOT fraudsters handed suspended sentences for untested vehicles",
+   "link": "https://www.gov.uk/government/news/mot-fraudsters-handed-suspended-sentences-for-untested-vehicles",
+   "summary": "An MOT tester and mechanic have been ordered to do up to 300 hours of unpaid work and face prison if they reoffend after passing 223 vehicles they never tested.",
+   "date": "2026-02-04T11:30:00+00:00",
+   "source": "DVSA news",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Moving on",
+   "link": "https://www.gov.uk/government/news/moving-on",
+   "summary": "After six years as the Traffic Commissioner for Wales, Victoria Davies has announced her resignation from the role to take up a new appointment, with effect from 1st March 2026.",
+   "date": "2026-01-30T09:39:29+00:00",
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Licence surrender refused",
+   "link": "https://www.gov.uk/government/news/licence-surrender-refused",
+   "summary": "The Traffic Commissioner for the South Eastern and Metropolitan Traffic Area, Sarah Bell, has revoked the operator licence held by SJ Europe Limited and disqualified its Transport Manager, Mr Harwinder Singh Atwal, from acti…",
+   "date": "2026-01-23T15:29:23+00:00",
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Pushed past the limits",
+   "link": "https://www.gov.uk/government/news/pushed-past-the-limits",
+   "summary": "The Traffic Commissioner for the Western Traffic Area, Kevin Rooney, has revoked the operator licence held by Scorpion Engineering Ltd following a public inquiry in Bristol on 9 October 2025. [An appeal has now been lodged …",
+   "date": "2026-01-13T11:45:29+00:00",
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "Richard Turfitt Awarded OBE for Services to Road Safety and Justice in New Year Honours",
+   "link": "https://www.gov.uk/government/news/richard-turfitt-awarded-obe-for-services-to-road-safety-and-justice-in-new-year-honours",
+   "summary": "The Traffic Commissioners for Great Britain are delighted to acknowledge the appointment of Richard Turfitt as an Officer of the Order of the British Empire (OBE) in the King’s New Year Honours list, recognising his outstand…",
+   "date": "2026-01-02T09:00:00+00:00",
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
+  },
+  {
+   "title": "New Traffic Commissioner appointed in Scotland",
+   "link": "https://www.gov.uk/government/news/new-traffic-commissioner-appointed-in-scotland",
+   "summary": "Following a fair and open recruitment campaign, Sharon Clelland was appointed by the Secretary of State for Transport as a Traffic Commissioner for Great Britain.",
+   "date": "2025-12-22T00:00:00+00:00",
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
   }
  ]
 }
