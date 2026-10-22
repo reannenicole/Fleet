@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-22T22:09+00:00",
+ "updated": "2026-10-22T22:10+00:00",
  "feeds": [
   {
    "source": "New UK laws",
    "type": "New law",
    "section": "updates",
    "ok": true,
-   "checked": 20,
+   "checked": 40,
    "count": 0
   },
   {
@@ -39,7 +39,7 @@
    "section": "updates",
    "ok": true,
    "checked": 20,
-   "count": 20
+   "count": 2
   },
   {
    "source": "DfT guidance",
@@ -63,7 +63,7 @@
    "section": "updates",
    "ok": true,
    "checked": 20,
-   "count": 6
+   "count": 4
   },
   {
    "source": "DVSA consultations",
@@ -107,168 +107,6 @@
   }
  ],
  "items": [
-  {
-   "title": "PSV notices and proceedings for Wales",
-   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-wales",
-   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for Wales.",
-   "date": "2026-10-22T13:23:34+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "PSV notices and proceedings for the west of England",
-   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-the-west-of-england",
-   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for the west of England.",
-   "date": "2026-10-22T13:23:28+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "Goods vehicle applications and decisions for London and the south east of England",
-   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-london-and-the-south-east-of-england",
-   "summary": "Applications for goods vehicle operator licences to, and decisions made by, the Traffic Commissioner for London and the south east of England.",
-   "date": "2026-10-22T13:23:19+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "Goods vehicle applications and decisions for the west of England",
-   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-the-west-of-england",
-   "summary": "Applications for good vehicle operator licences to, and decisions made by, the Traffic Commissioner for the west of England.",
-   "date": "2026-10-22T13:23:11+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "PSV notices and proceedings for the north west of England",
-   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-the-north-west-of-england",
-   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for the North West of England.",
-   "date": "2026-10-21T15:59:02+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "PSV notices and proceedings for the east of England",
-   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-the-east-of-england",
-   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for the east of England.",
-   "date": "2026-10-21T15:58:58+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "Goods vehicle applications and decisions for the north east of England",
-   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-the-north-east-of-england",
-   "summary": "Applications for goods vehicle operator licences to, and decisions made by, the Traffic Commissioner for the north east of England.",
-   "date": "2026-10-21T15:58:53+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "Goods vehicle applications and decisions for the east of England",
-   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-the-east-of-england",
-   "summary": "Applications for goods vehicle operator licences to, and decisions made by, the Traffic Commissioner for the east of England.",
-   "date": "2026-10-21T15:58:48+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "Goods vehicle applications and decisions for Wales",
-   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-wales",
-   "summary": "Applications for goods vehicle operator licences to, and decisions made by, the Traffic Commissioner for Wales.",
-   "date": "2026-10-21T15:58:43+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "Amending the building regulations: electric vehicle charging infrastructure",
-   "link": "https://www.gov.uk/government/consultations/amending-the-building-regulations-electric-vehicle-charging-infrastructure",
-   "summary": "Seeks views on proposals to support the installation of electric vehicle (EV) charge points in England.",
-   "date": "2026-10-20T23:01:05+00:00",
-   "source": "DfT consultations",
-   "type": "Consultation",
-   "section": "updates"
-  },
-  {
-   "title": "Expanding electric vehicle charging access for tenants and leaseholders",
-   "link": "https://www.gov.uk/government/consultations/expanding-electric-vehicle-charging-access-for-tenants-and-leaseholders",
-   "summary": "Seeks views on measures to improve access to electric vehicle (EV) charging for tenants and leaseholders in England.",
-   "date": "2026-10-20T23:01:05+00:00",
-   "source": "DfT consultations",
-   "type": "Consultation",
-   "section": "updates"
-  },
-  {
-   "title": "Goods vehicle applications and decisions for the West Midlands",
-   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-the-west-midlands",
-   "summary": "Applications for goods vehicle operator licences to, and decisions made by, the Traffic Commissioner for the West Midlands.",
-   "date": "2026-10-19T20:32:14+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "PSV notices and proceedings for Scotland",
-   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-scotland",
-   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for Scotland.",
-   "date": "2026-10-19T20:32:10+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "PSV notices and proceedings for the West Midlands",
-   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-the-west-midlands",
-   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for the West Midlands.",
-   "date": "2026-10-19T20:32:04+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "PSV notices and proceedings for London and the south east of England",
-   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-london-and-the-south-east-of-england",
-   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for London and the south east of England.",
-   "date": "2026-10-19T20:31:59+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "Goods vehicle applications and decisions for Scotland",
-   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-scotland",
-   "summary": "Applications for goods vehicle operator licences to, and decisions made by, the Traffic Commissioner for Scotland.",
-   "date": "2026-10-19T20:31:53+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "PSV notices and proceedings for the north east of England",
-   "link": "https://www.gov.uk/guidance/notices-and-proceedings-for-the-north-east-of-england",
-   "summary": "Notice of bus and coach operator licence applications to, and decisions made by, the Traffic Commissioner for the north east of England.",
-   "date": "2026-10-16T10:51:23+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "Goods vehicle applications and decisions for the north west of England",
-   "link": "https://www.gov.uk/guidance/applications-and-decisions-for-the-north-west-of-england",
-   "summary": "Applications for goods vehicle operator licences to, and decisions made by, the Traffic Commissioner for the north west of England.",
-   "date": "2026-10-16T10:49:05+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
   {
    "title": "Zero emission vehicle grant portal",
    "link": "https://www.gov.uk/government/publications/plug-in-vehicle-grant-portal-guidance",
@@ -495,15 +333,6 @@
    "section": "updates"
   },
   {
-   "title": "Traffic Commissioner Welsh Language Scheme 2026-2029",
-   "link": "https://www.gov.uk/guidance/traffic-commissioner-welsh-language-scheme-2026-2029",
-   "summary": "This scheme sets out how TCs will uphold this principle when providing services to the public in Wales.",
-   "date": "2026-06-19T14:06:12+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
    "title": "Miles Dorrington to retire as Traffic Commissioner for the West Midlands",
    "link": "https://www.gov.uk/government/news/miles-dorrington-to-retire-as-traffic-commissioner-for-the-west-midlands--3",
    "summary": "Miles Dorrington, Traffic Commissioner for the West Midlands Traffic Area, is to retire from his role as a full-time Traffic Commissioner.",
@@ -511,15 +340,6 @@
    "source": "Traffic Commissioners news",
    "type": "News",
    "section": "news"
-  },
-  {
-   "title": "Traffic Commissioners for Great Britain: privacy notice",
-   "link": "https://www.gov.uk/government/publications/traffic-commissioners-for-great-britain-privacy-notice",
-   "summary": "How the Traffic Commissioners will use your personal data for the administration of operator licensing.",
-   "date": "2026-05-13T12:39:36+00:00",
-   "source": "Traffic Commissioners guidance",
-   "type": "Guidance update",
-   "section": "updates"
   },
   {
    "title": "Operator’s licence revoked after serious maintenance and safety failures",
