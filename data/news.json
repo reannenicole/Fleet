@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T13:07+00:00",
+ "updated": "2026-10-30T13:00+00:00",
  "feeds": [
   {
    "source": "New UK laws",
@@ -31,7 +31,7 @@
    "section": "updates",
    "ok": true,
    "checked": 20,
-   "count": 6
+   "count": 7
   },
   {
    "source": "Traffic Commissioners guidance",
@@ -107,6 +107,15 @@
   }
  ],
  "items": [
+  {
+   "title": "Vehicle approval test costs",
+   "link": "https://www.gov.uk/government/publications/individual-vehicle-approval-inspection-fees",
+   "summary": "Fees and test lengths for car, motorcycle, lorry, trailer, bus and coach approval tests.",
+   "date": "2026-10-30T00:01:00+00:00",
+   "source": "DVSA guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
   {
    "title": "Public electric vehicle charge points: cyber security",
    "link": "https://www.gov.uk/government/consultations/public-electric-vehicle-charge-points-cyber-security",
