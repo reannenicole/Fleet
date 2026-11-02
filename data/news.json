@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:29+00:00",
+ "updated": "2026-11-02T16:02+00:00",
  "feeds": [
   {
    "source": "New UK laws",
@@ -107,6 +107,15 @@
   }
  ],
  "items": [
+  {
+   "title": "Driver Welfare, Safety and Compliance: A Traffic Commissioners’ View",
+   "link": "https://www.gov.uk/government/news/driver-welfare-safety-and-compliance-a-traffic-commissioners-view",
+   "summary": "As Traffic Commissioners for Great Britain, our statutory role is to regulate the operation of heavy goods vehicles (HGVs) and public service vehicles (PSVs) in the interests of road safety, fair competition and public confi…",
+   "date": "2026-11-02T10:30:05+00:00",
+   "source": "Traffic Commissioners news",
+   "type": "News",
+   "section": "news"
+  },
   {
    "title": "Vehicle approval test costs",
    "link": "https://www.gov.uk/government/publications/individual-vehicle-approval-inspection-fees",
