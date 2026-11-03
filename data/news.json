@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T16:02+00:00",
+ "updated": "2026-11-03T14:22+00:00",
  "feeds": [
   {
    "source": "New UK laws",
@@ -108,6 +108,15 @@
  ],
  "items": [
   {
+   "title": "Find a dangerous goods safety adviser",
+   "link": "https://www.gov.uk/government/publications/find-a-dangerous-goods-safety-adviser",
+   "summary": "Find contact details for dangerous goods safety advisers (DGSA) that can help you transport dangerous goods safely.",
+   "date": "2026-11-03T12:03:46+00:00",
+   "source": "DVSA guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
    "title": "Driver Welfare, Safety and Compliance: A Traffic Commissioners’ View",
    "link": "https://www.gov.uk/government/news/driver-welfare-safety-and-compliance-a-traffic-commissioners-view",
    "summary": "As Traffic Commissioners for Great Britain, our statutory role is to regulate the operation of heavy goods vehicles (HGVs) and public service vehicles (PSVs) in the interests of road safety, fair competition and public confi…",
@@ -132,15 +141,6 @@
    "date": "2026-10-29T09:30:00+00:00",
    "source": "DfT consultations",
    "type": "Consultation",
-   "section": "updates"
-  },
-  {
-   "title": "Find a dangerous goods safety adviser",
-   "link": "https://www.gov.uk/government/publications/find-a-dangerous-goods-safety-adviser",
-   "summary": "Find contact details for dangerous goods safety advisers (DGSA) that can help you transport dangerous goods safely.",
-   "date": "2026-10-28T14:03:20+00:00",
-   "source": "DVSA guidance",
-   "type": "Guidance update",
    "section": "updates"
   },
   {
