@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T14:38+00:00",
+ "updated": "2026-11-05T14:42+00:00",
  "feeds": [
   {
    "source": "New UK laws",
@@ -63,7 +63,7 @@
    "section": "updates",
    "ok": true,
    "checked": 20,
-   "count": 3
+   "count": 2
   },
   {
    "source": "DVSA consultations",
@@ -107,6 +107,15 @@
   }
  ],
  "items": [
+  {
+   "title": "Cross-pavement solutions for charging electric vehicles",
+   "link": "https://www.gov.uk/government/publications/cross-pavement-solutions-for-charging-electric-vehicles",
+   "summary": "Guidance to help local authorities to develop policies on the safe use of cross-pavement electric vehicle charging solutions.",
+   "date": "2026-11-04T14:47:43+00:00",
+   "source": "DfT guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
   {
    "title": "Find a dangerous goods safety adviser",
    "link": "https://www.gov.uk/government/publications/find-a-dangerous-goods-safety-adviser",
