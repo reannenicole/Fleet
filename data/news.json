@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:42+00:00",
+ "updated": "2026-11-06T14:21+00:00",
  "feeds": [
   {
    "source": "New UK laws",
@@ -63,7 +63,7 @@
    "section": "updates",
    "ok": true,
    "checked": 20,
-   "count": 2
+   "count": 3
   },
   {
    "source": "DVSA consultations",
@@ -107,6 +107,15 @@
   }
  ],
  "items": [
+  {
+   "title": "Amendments to licensing restrictions: bus, coach and heavy goods vehicles",
+   "link": "https://www.gov.uk/government/consultations/amendments-to-licensing-restrictions-bus-coach-and-heavy-goods-vehicles",
+   "summary": "Seeks views on the amendments to licensing restrictions to address bus, coach and HGV driver shortages.",
+   "date": "2026-11-06T09:00:00+00:00",
+   "source": "DfT consultations",
+   "type": "Consultation",
+   "section": "updates"
+  },
   {
    "title": "Cross-pavement solutions for charging electric vehicles",
    "link": "https://www.gov.uk/government/publications/cross-pavement-solutions-for-charging-electric-vehicles",
