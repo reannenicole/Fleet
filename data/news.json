@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T16:28+00:00",
+ "updated": "2026-11-10T14:56+00:00",
  "feeds": [
   {
    "source": "New UK laws",
@@ -47,7 +47,7 @@
    "section": "updates",
    "ok": true,
    "checked": 20,
-   "count": 1
+   "count": 2
   },
   {
    "source": "DVLA guidance",
@@ -107,6 +107,15 @@
   }
  ],
  "items": [
+  {
+   "title": "Zero emission vehicle grant portal",
+   "link": "https://www.gov.uk/government/publications/plug-in-vehicle-grant-portal-guidance",
+   "summary": "Using the zero emission vehicle grant portal to apply for funding as a car manufacturer or dealership.",
+   "date": "2026-11-10T13:18:31+00:00",
+   "source": "DfT guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
   {
    "title": "Amendments to licensing restrictions: bus, coach and heavy goods vehicles",
    "link": "https://www.gov.uk/government/consultations/amendments-to-licensing-restrictions-bus-coach-and-heavy-goods-vehicles",
@@ -177,15 +186,6 @@
    "date": "2026-10-27T00:01:06+00:00",
    "source": "DfT consultations",
    "type": "Consultation",
-   "section": "updates"
-  },
-  {
-   "title": "Zero emission vehicle grant portal",
-   "link": "https://www.gov.uk/government/publications/plug-in-vehicle-grant-portal-guidance",
-   "summary": "Using the zero emission vehicle grant portal to apply for funding as a car manufacturer or dealership.",
-   "date": "2026-10-14T07:06:42+00:00",
-   "source": "DfT guidance",
-   "type": "Guidance update",
    "section": "updates"
   },
   {
