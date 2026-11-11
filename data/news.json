@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T14:56+00:00",
+ "updated": "2026-11-11T14:27+00:00",
  "feeds": [
   {
    "source": "New UK laws",
@@ -31,7 +31,7 @@
    "section": "updates",
    "ok": true,
    "checked": 20,
-   "count": 7
+   "count": 8
   },
   {
    "source": "Traffic Commissioners guidance",
@@ -107,6 +107,15 @@
   }
  ],
  "items": [
+  {
+   "title": "Testing advice for specific vehicles: guidance for MOT testers",
+   "link": "https://www.gov.uk/government/publications/testing-advice-for-specific-vehicles-guidance-for-mot-testers",
+   "summary": "What MOT testers need to know about how to test certain makes and models of vehicles (previously called vehicle specific information).",
+   "date": "2026-11-10T15:50:42+00:00",
+   "source": "DVSA guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
   {
    "title": "Zero emission vehicle grant portal",
    "link": "https://www.gov.uk/government/publications/plug-in-vehicle-grant-portal-guidance",
