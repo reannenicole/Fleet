@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T15:19+00:00",
+ "updated": "2026-11-13T14:38+00:00",
  "feeds": [
   {
    "source": "New UK laws",
@@ -31,7 +31,7 @@
    "section": "updates",
    "ok": true,
    "checked": 20,
-   "count": 8
+   "count": 9
   },
   {
    "source": "Traffic Commissioners guidance",
@@ -107,6 +107,15 @@
   }
  ],
  "items": [
+  {
+   "title": "Book a dangerous goods safety adviser exam",
+   "link": "https://www.gov.uk/guidance/book-a-dangerous-goods-safety-adviser-exam",
+   "summary": "How to apply to book and take an exam if you want to become a dangerous goods safety adviser (DGSA) or renew your DGSA certificate.",
+   "date": "2026-11-12T17:00:02+00:00",
+   "source": "DVSA guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
   {
    "title": "Testing advice for specific vehicles: guidance for MOT testers",
    "link": "https://www.gov.uk/government/publications/testing-advice-for-specific-vehicles-guidance-for-mot-testers",
