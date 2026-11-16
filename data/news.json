@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T13:58+00:00",
+ "updated": "2026-11-16T15:52+00:00",
  "feeds": [
   {
    "source": "New UK laws",
@@ -107,6 +107,15 @@
   }
  ],
  "items": [
+  {
+   "title": "MOT testing guide for test stations",
+   "link": "https://www.gov.uk/guidance/mot-testing-guide",
+   "summary": "How the MOT scheme is administered and the rules for authorised examiners, testers and testing different types of vehicles.",
+   "date": "2026-11-16T12:29:29+00:00",
+   "source": "DVSA guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
   {
    "title": "Find a DVSA earned recognition auditor",
    "link": "https://www.gov.uk/government/publications/dvsa-earned-recognition-authorised-audit-providers",
@@ -274,15 +283,6 @@
    "link": "https://www.gov.uk/guidance/securing-loads-on-hgvs-and-goods-vehicles/6-how-to-carry-different-types-of-load-in-hgvs-and-goods-vehicles",
    "summary": "Ways to load items on a goods vehicle safely.",
    "date": "2026-09-24T11:16:34+00:00",
-   "source": "DVSA guidance",
-   "type": "Guidance update",
-   "section": "updates"
-  },
-  {
-   "title": "MOT testing guide for test stations",
-   "link": "https://www.gov.uk/guidance/mot-testing-guide",
-   "summary": "How the MOT scheme is administered and the rules for authorised examiners, testers and testing different types of vehicles.",
-   "date": "2026-09-22T09:59:54+00:00",
    "source": "DVSA guidance",
    "type": "Guidance update",
    "section": "updates"
