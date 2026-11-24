@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:16+00:00",
+ "updated": "2026-11-24T17:51+00:00",
  "feeds": [
   {
    "source": "New UK laws",
@@ -31,7 +31,7 @@
    "section": "updates",
    "ok": true,
    "checked": 20,
-   "count": 7
+   "count": 8
   },
   {
    "source": "Traffic Commissioners guidance",
@@ -47,7 +47,7 @@
    "section": "updates",
    "ok": true,
    "checked": 20,
-   "count": 2
+   "count": 3
   },
   {
    "source": "DVLA guidance",
@@ -107,6 +107,24 @@
   }
  ],
  "items": [
+  {
+   "title": "Stickers or other items on vehicle windscreens",
+   "link": "https://www.gov.uk/government/publications/stickers-or-other-items-in-front-and-rear-windscreens",
+   "summary": "Guidance on the law on sticking items on vehicle windows which could obscure the view.",
+   "date": "2026-11-24T10:16:38+00:00",
+   "source": "DVSA guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
+  {
+   "title": "How to reimburse bus operators for concessionary travel",
+   "link": "https://www.gov.uk/government/publications/guidance-on-reimbursing-bus-operators-for-concessionary-travel",
+   "summary": "How local authorities can calculate reimbursement to bus operators that carry concessionary passholders.",
+   "date": "2026-11-24T09:30:08+00:00",
+   "source": "DfT guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
   {
    "title": "MOT testing guide for test stations",
    "link": "https://www.gov.uk/guidance/mot-testing-guide",
