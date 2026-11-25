@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:51+00:00",
+ "updated": "2026-11-25T17:17+00:00",
  "feeds": [
   {
    "source": "New UK laws",
@@ -47,7 +47,7 @@
    "section": "updates",
    "ok": true,
    "checked": 20,
-   "count": 3
+   "count": 4
   },
   {
    "source": "DVLA guidance",
@@ -107,6 +107,15 @@
   }
  ],
  "items": [
+  {
+   "title": "Electric vehicle charging infrastructure statistics information",
+   "link": "https://www.gov.uk/government/publications/electric-vehicle-charging-device-statistics-information",
+   "summary": "Supporting documents for the electric vehicle charging infrastructure statistics collection.",
+   "date": "2026-11-25T09:30:07+00:00",
+   "source": "DfT guidance",
+   "type": "Guidance update",
+   "section": "updates"
+  },
   {
    "title": "Stickers or other items on vehicle windscreens",
    "link": "https://www.gov.uk/government/publications/stickers-or-other-items-in-front-and-rear-windscreens",
