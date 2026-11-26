@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:17+00:00",
+ "updated": "2026-11-26T16:57+00:00",
  "feeds": [
   {
    "source": "New UK laws",
@@ -63,7 +63,7 @@
    "section": "updates",
    "ok": true,
    "checked": 20,
-   "count": 3
+   "count": 4
   },
   {
    "source": "DVSA consultations",
@@ -107,6 +107,15 @@
   }
  ],
  "items": [
+  {
+   "title": "Automated and Electric Vehicles Act 2018 regulatory report 2025",
+   "link": "https://www.gov.uk/government/publications/automated-and-electric-vehicles-act-2018-regulatory-report-2025",
+   "summary": "Progress report on the development of electric vehicle charging infrastructure.",
+   "date": "2026-11-26T15:22:01+00:00",
+   "source": "DfT consultations",
+   "type": "Consultation",
+   "section": "updates"
+  },
   {
    "title": "Electric vehicle charging infrastructure statistics information",
    "link": "https://www.gov.uk/government/publications/electric-vehicle-charging-device-statistics-information",
